@@ -1,20 +1,20 @@
 # feynnlabs-mcdonalds-segmentation# McDonald’s Brand Segmentation – Feynn Labs Study Task
 
-### 📌 Repository Name: `feynnlabs-mcdonalds-segmentation`  
-### 👤 Submitted by: Venkata Pranavi  
-### 🏢 Organization: Feynn Labs  
-### 📅 Submission Date: 05-07-2025  
-### 📁 Task Type: Individual Practice Report (Market Segmentation Study)
+###  Repository Name: `feynnlabs-mcdonalds-segmentation`  
+###  Submitted by: Venkata Pranavi  
+###  Organization: Feynn Labs  
+###  Submission Date: 05-07-2025  
+###  Task Type: Individual Practice Report (Market Segmentation Study)
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 This repository is part of a study task under Feynn Labs, focused on applying market segmentation techniques using a case study of McDonald’s. The goal is to replicate part of the segmentation process through a simple KMeans clustering model based on consumer brand perceptions.
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 1. **Dataset Creation**  
    A mock dataset was created using binary responses (YES/NO → 1/0) for the following attributes:  
@@ -38,7 +38,7 @@ This repository is part of a study task under Feynn Labs, focused on applying ma
 
 ---
 
-## 📂 Contents
+##  Contents
 
 | File Name                  | Description                                |
 |---------------------------|--------------------------------------------|
@@ -49,7 +49,7 @@ This repository is part of a study task under Feynn Labs, focused on applying ma
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - Python 3.10+
 - pandas
@@ -59,13 +59,13 @@ This repository is part of a study task under Feynn Labs, focused on applying ma
 
 ---
 
-## 📌 Notes
+##  Notes
 
 This is a practice submission for the first study task. The main objective is to understand how to apply market segmentation to real-world brands using Python and clustering techniques. This knowledge will be extended to real market domains in the next phase of the project.
 
 ---
 
-## 🔗 References
+## References
 
 - Dolnicar & Leisch (2012), Dolnicar & Grün (2014)  
 - Grün & Dolnicar (2016) – Market Segmentation Analysis  
