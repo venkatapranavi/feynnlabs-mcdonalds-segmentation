@@ -1,12 +1,6 @@
 # McDonald’s Brand Segmentation – Feynn Labs Study Task
 
-###  Repository Name: `feynnlabs-mcdonalds-segmentation`  
-###  Submitted by: Venkata Pranavi  
-###  Organization: Feynn Labs  
-###  Submission Date: 09-07-2025  
-###  Task Type: Individual Practice Report (Market Segmentation Study)
 
----
 
 ##  Objective
 
@@ -68,19 +62,8 @@ The project simulates part of a segmentation pipeline using McDonald’s as a ca
 
 ---
 
-##  Next Steps (Optional)
-
-- Add decision tree classification to profile segments by age/gender
-- Use actual McDonald’s dataset (if available) to improve realism
-- Try hierarchical clustering or DBSCAN for comparison
-
 ---
 
-##  Useful References
 
-- Dolnicar, Grün & Leisch (2012–2016) brand perception studies
-- Market Segmentation Analysis by Sara Dolnicar (MSA Book)
-
----
 
 > *This project is part of a personal learning task and not affiliated with McDonald's Corporation.*
