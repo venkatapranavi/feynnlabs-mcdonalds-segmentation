@@ -43,7 +43,7 @@ The project simulates part of a segmentation pipeline using McDonald’s as a ca
 |-----------------------------|--------------------------------------------------|
 | `segmentation_mcdonalds.ipynb` | Jupyter notebook implementing the segmentation model |
 | `mock_data.csv`             | Simulated brand perception data                  |
-| `Team-Pranavi.pdf`          | Market segmentation report (PDF)                 |
+| `Team.pdf`                  | Market segmentation report (PDF)                 |
 | `README.md`                 | Project documentation (this file)                |
 
 ---
