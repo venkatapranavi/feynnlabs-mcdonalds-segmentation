@@ -3,7 +3,7 @@
 ###  Repository Name: `feynnlabs-mcdonalds-segmentation`  
 ###  Submitted by: Venkata Pranavi  
 ###  Organization: Feynn Labs  
-###  Submission Date: 05-07-2025  
+###  Submission Date: 09-07-2025  
 ###  Task Type: Individual Practice Report (Market Segmentation Study)
 
 ---
